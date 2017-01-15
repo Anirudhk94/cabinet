@@ -44,7 +44,7 @@
 }
 
 #callouts {
-	background-image: image-url("callout_background.jpg");
+	background-image: url("callout_background.jpg");
 	background-size: cover;
 	background-repeat: no-repeat;
 	background-position: top center;
@@ -86,3 +86,16 @@
 			color: #a7a8a8;
 		}
 }
+
+.custom {
+	
+    float: right;
+    padding-left: 15px;
+    padding-right: 22px;
+    padding-top: 10px;
+    a {
+    	color: white !important;
+    }
+}
+
+
