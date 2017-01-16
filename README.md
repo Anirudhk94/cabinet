@@ -1,24 +1,17 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This README documents steps that are necessary to get the application up and running.
 
-Things you may want to cover:
+Prerequisites :
 
-* Ruby version
+* Ruby version - 2.2.6
 
-* System dependencies
+* Rails version - 5.0.1
 
-* Configuration
+Steps :
 
-* Database creation
+1. After cloning is done, start the rails server using "rails server" command. This starts a local server for you.
 
-* Database initialization
+2. Open the browser and visit the following URL to launch the application. 
+	localhost:3000
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
